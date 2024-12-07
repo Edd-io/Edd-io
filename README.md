@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**Kum1ta/Kum1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Eddy** (aka **Kum1ta**), a passionate programmer. I'm currently a student at **42**, mastering coding skills and building awesome projects. 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇫🇷 From France, currently exploring the depths of code.
+- 🌐 Fluent in French, with a growing love for **English** and **Japanese**.
+- 🐧 A proud Arch Linux and macOS user, adapting to the best of both worlds.
+
+## 💡 Interests
+
+- 📚 Learning new programming languages and tools to expand my expertise.
+
+## 📫 How to Reach Me
+
+Feel free to explore my repositories and projects here on GitHub. I'm always open to collaborations, ideas, or just a friendly chat about code and design! Connect with me via:
+
+- 📧 Email: eddy.bernard.pro@gmail.com
+- 💼 LinkedIn: [Link](https://linkedin.com/in/eddy-bernard-b280a0255)
+
+---
+
+Thanks for stopping by! Have a great day! 🎉
