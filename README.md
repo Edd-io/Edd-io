@@ -23,6 +23,7 @@ Hi there! I'm **Eddy** (aka **Kum1ta**), a passionate programmer. I'm currently 
 ![JavaScript icon](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript icon](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React Native icon](https://img.shields.io/badge/React%20Native-%2300B0FF?style=for-the-badge&logo=react&logoColor=white)
+![SQL icon](https://img.shields.io/badge/SQL-%23A8B9CC?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
