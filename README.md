@@ -24,7 +24,7 @@ Hi there! I'm **Eddy** (aka **Kum1ta**), a passionate programmer. I'm currently 
 ![TypeScript icon](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React Native icon](https://img.shields.io/badge/React%20Native-%2300B0FF?style=for-the-badge&logo=react&logoColor=white)
 ![SQL icon](https://img.shields.io/badge/SQL-%23A8B9CC?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)
 
 
 ## 📫 How to Reach Me
