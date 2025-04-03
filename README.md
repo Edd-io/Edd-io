@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Eddy** (aka **Kum1ta**), a passionate programmer. I'm currently a student at **42**, mastering coding skills and building awesome projects. 🚀
+Hi there! I'm **Eddy** (aka **Edd-io**), a passionate programmer. I'm currently a student at **42**, mastering coding skills and building awesome projects. 🚀
 
 ## 🌟 About Me
 
