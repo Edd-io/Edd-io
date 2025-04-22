@@ -25,6 +25,8 @@ Hi there! I'm **Eddy** (aka **Edd-io**), a passionate programmer. I'm currently 
 ![React Native icon](https://img.shields.io/badge/React%20Native-%2300B0FF?style=for-the-badge&logo=react&logoColor=white)
 ![SQL icon](https://img.shields.io/badge/SQL-%23A8B9CC?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)
+![Flutter icon](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart icon](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ## 📫 How to Reach Me
